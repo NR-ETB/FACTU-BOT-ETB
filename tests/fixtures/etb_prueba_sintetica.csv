@@ -1,0 +1,2 @@
+id_cliente,nombre_cliente,numero_cuenta,numero_factura,tipo_servicio,periodo_inicio,periodo_fin,fecha_emision,fecha_vencimiento,moneda,valor_internet,valor_television,valor_telefonia,subtotal_servicios,descuento,saldo_anterior,otros_cargos,total_pagar,estado_factura
+CLIENTE_TEST_001,Cliente ficticio ETB,CTA-TEST-0001,FACT-PRUEBA-202610-001,HOGAR,2026-09-01,2026-09-30,2026-10-05,2026-10-25,COP,85000,35000,20000,140000,10000,0,0,130000,Pendiente
